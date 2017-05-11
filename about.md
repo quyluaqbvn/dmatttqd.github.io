@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Đôi chút thông tin nhỉ 
-permalink: /Về tui/
+title: About 
+permalink: /About/
 ---
 
 Tôi là người sẽ cứu thế giới khi rãnh
