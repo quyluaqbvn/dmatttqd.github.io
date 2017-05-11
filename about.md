@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Về tui
+title: About
 permalink: /about.md
 ---
-
+### Châm ngôn
 Tôi là người sẽ cứu thế giới khi rãnh
 
 ### Sở thích
