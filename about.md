@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 
+title: Về tui
 permalink: /about.md
 ---
 
