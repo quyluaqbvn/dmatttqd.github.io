@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thật ư !!!
+title: Bức ảnh ngày ấy chúng ta cùng nhìn
 ---
 
 5 giây đầu khá quan trọng đấy :))
