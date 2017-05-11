@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Đôi chút thông tin nhỉ 
+permalink: /Về tui/
 ---
 
-Some information about you!
+Tôi là người sẽ cứu thế giới khi rãnh
 
-### More Information
+### Sở thích
 
-A place to include any other types of information that you'd like to include about yourself.
+Học bất cứ thứ gì mình thích và không muốn bị bắt học bất cứ thứ gì dù có thể mình thích(Hơi bảo thủ :)) )
 
-### Contact me
+### Nếu bạn đọc là con gái (only girl)
 
-[email@domain.com](mailto:email@domain.com)
+liên hệ tui if u like me :numphone la 01263637724
