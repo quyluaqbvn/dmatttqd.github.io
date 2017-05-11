@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About 
-permalink: /about.md/
+permalink: /about/
 ---
 
 Tôi là người sẽ cứu thế giới khi rãnh
