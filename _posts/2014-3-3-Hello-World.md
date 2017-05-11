@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bức ảnh ngày ấy chúng ta cùng nhìn
+title: Bức ảnh ngày ấy chúng ta cùng ngắm
 ---
 
 5 giây đầu khá quan trọng đấy :))
