@@ -1,6 +1,6 @@
 ---
 layout: page
-title:Về tui
+title: Về tui
 permalink: /about.md
 ---
 ### Châm ngôn
