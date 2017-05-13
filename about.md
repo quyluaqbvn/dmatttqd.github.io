@@ -4,7 +4,7 @@ title:About
 permalink: /about.md
 ---
 ### Châm ngôn
-Tôi là người sẽ cứu thế giới khi rãnh AAAA
+Tôi là người sẽ cứu thế giới khi rãnh AAAAa
 
 ### Sở thích
 
